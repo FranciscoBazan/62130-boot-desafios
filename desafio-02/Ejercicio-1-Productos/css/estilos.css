@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(39, 50, 56)
+}
+
+.t-principal{
+    color: rgb(105, 133, 147);
+    background-color: #ffffff;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 55px;
+}
+.t-pequenio{
+    color: #ffffff;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+.t-aspiradoras{
+    color: rgb(230, 203, 191);
+    font-family: Arial, Gadget, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+}
+.t-celulares{
+    color: rgb(161, 193, 203);
+    font-family: Arial, Gadget, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+}
+.t-consolas{
+    color: rgb(188, 189, 191);
+    font-family: Arial, Gadget, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+}
+.t-home-theaters{
+    color: rgb(141, 148, 161);
+    font-family: Arial, Gadget, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+}
+.t-televisores{
+    color: rgb(165, 171, 168);
+    font-family: Arial, Gadget, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+}
+
+.img-1{
+    border: 5px solid rgb(230, 203, 191);
+    padding: 1px 0px 0px 1px;
+}
+.img-2{
+    border: 5px solid rgb(161, 193, 203);
+    padding: 0px 0px 1px 1px;
+}
+.img-3{
+    border: 5px solid rgb(188, 189, 191);
+    padding: 1px 0px 1px 1px;
+}
+.img-4{
+    border: 5px solid rgb(141, 148, 161);
+    padding: 1px 0px 0px 0px;
+}
+.img-5{
+    border: 5px solid rgb(165, 171, 168);
+    padding: 0px 0px 1px 1px;
+}

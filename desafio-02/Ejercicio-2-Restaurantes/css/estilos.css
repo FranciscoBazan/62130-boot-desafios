@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(40, 150, 136);
+}
+.t-principal{
+    color: rgb(252, 234, 62);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+}
+.img{
+    border: 10px solid #FFFFFF;
+    margin: 5px;
+}

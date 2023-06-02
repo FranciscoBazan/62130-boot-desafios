@@ -1,0 +1,42 @@
+.logo{
+    width: 25%;
+}
+.contenedor-logo{
+    text-align: center;
+}
+
+.t-principal{
+    color: rgb(187, 83, 151);
+    text-align: center;
+    letter-spacing: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    font-size: 55px;
+}
+.subtitulos{
+    color: rgb(187, 83, 151);
+    letter-spacing: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p{
+    color: rgb(62, 115, 186);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img-1{
+   float: right;
+   margin-left: 20px;
+
+}
+.img-2{
+    float: left;
+    margin-right: 20px;
+}
+.img-3{
+    float: right;
+   margin-left: 20px;
+}
+.img-4{
+    width: 100%;
+}
+
